@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Founder Elphaba",
+      "level": 105,
+      "health": 100000000,
+      "health_percentage": 25
+    },
+    {
+      "name": "Goblin Chief",
+      "level": 105,
+      "health": 20000000,
+      "health_percentage": 5
+    },
+    {
+      "name": "Nine-tailed Fox Garam",
+      "level": 105,
+      "health": 90000000,
+      "health_percentage": 22.5
+    },
+    {
+      "name": "Snowman General Gast",
+      "level": 105,
+      "health": 100000000,
+      "health_percentage": 25
+    }
+  ]
+}
